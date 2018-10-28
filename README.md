@@ -112,19 +112,19 @@ How to Utilise Program:
   E.g.
   Config.csv
 
-     |Admin			|                                           |           |       |
-     |Num	      |1                                          |10         |       |
-     |Num	      |1                                          |5          |       |
-     |Num	      |1                                          |7          |       |
+     |Admin      |                                          |           |       |
+     |Num        |1                                         |10         |       |
+     |Num	       |1                                         |5          |       |
+     |Num        |1                                         |7          |       |
      |Categorical|Yes                                       |No         |Perhaps|
      |Qualitative|                                          |           |       |		
-     |           |Graph Type (Either Pie or Bar)		        |           |       |
+     |           |Graph Type (Either Pie or Bar)            |           |       |
      |           |Bar (nil or inappropriate will return Bar)|           |       |
-     |           |Executive Analysis		                    |           |       |
+     |           |Executive Analysis                        |           |       |
      |           |Correlation                               |2          |   3   |
-     |           |Summary for perception of program?(Y or N)|	         |       |	
-     |           |Y	                                        |           |       |
-     |           |Demand Question Number		                |           |       |
+     |           |Summary for perception of program?(Y or N)|           |       |	
+     |           |Y                                         |           |       |
+     |           |Demand Question Number                    |           |       |
      |           |4(Blank will not give expected demand)    |Yes(option)|       |	
 
 
