@@ -69,6 +69,7 @@ How to Utilise Program:
   For Categorical Questions, please put all your categories to the right of the cell in “Categories”, please dedicate 1 cell for each category
 
   There are supplementary functions, they are:
+  
   •	Graph Type(Either Pie or Bar)
   
     o	Pie or Bar: returns charts in that format for Numerical and Categorical questions
@@ -82,6 +83,7 @@ How to Utilise Program:
     o	Questions you want to correlate to the right, in separate boxes
   
     o	Only uses data from ‘Num’ questions
+    
   •	Correlation
   
     o	This function analyses the trends between the responses of 2 numerical questions
