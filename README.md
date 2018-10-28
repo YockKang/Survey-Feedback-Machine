@@ -17,14 +17,22 @@ How to Utilise Program:
   4.	Docx
 
   Files:
+  
   •	Responses.csv
-  o	This is where the data is input by the user
-  o	The user is recommended to copy and paste the data inside this file
-  o	Sample response set included
-  •	Config.csv
-  o	This is where the user can enter the configurations for different surveys and functions utilized by the program
-  o	Appropriate sample config file included
-  •	Program.py
+  
+    o	This is where the data is input by the user
+  
+    o	The user is recommended to copy and paste the data inside this file
+  
+    o	Sample response set included
+  
+    •	Config.csv
+  
+    o	This is where the user can enter the configurations for different surveys and functions utilized by the program
+  
+    o	Appropriate sample config file included
+  
+    •	Program.py
   o	This is the main program. To run it, one can simply double click it, and there is no need to enter the IDLE text editor
   •	Ouput.docx
   o	This word document is where an analysis report of the survey is written to by the program
