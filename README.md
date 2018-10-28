@@ -26,23 +26,32 @@ How to Utilise Program:
   
     o	Sample response set included
   
-    •	Config.csv
+  •	Config.csv
   
     o	This is where the user can enter the configurations for different surveys and functions utilized by the program
   
     o	Appropriate sample config file included
   
-    •	Program.py
-  o	This is the main program. To run it, one can simply double click it, and there is no need to enter the IDLE text editor
+  •	Program.py
+    
+    o	This is the main program. To run it, one can simply double click it, and there is no need to enter the IDLE text editor
+  
   •	Ouput.docx
-  o	This word document is where an analysis report of the survey is written to by the program
-  o	Do note that previous reports won’t be automatically saved, so the user is required to manually save it as another file before re-using with different configurations.
+  
+    o	This word document is where an analysis report of the survey is written to by the program
+  
+    o	Do note that previous reports won’t be automatically saved, so the user is required to manually save it as another file before re-using with different configurations.
+  
   •	Condensethis.txt, Output.txt, Error.txt
-  o	These are side files required by the program, with no need for user interaction.
+  
+    o	These are side files required by the program, with no need for user interaction.
 
   (Example configs in file)
+  
   In responses.csv, copy-paste the survey data
+  
   The first row is dedicated to all the questions,
+  
   Below that is the data
 
   In config.csv, enter the configuration for your questions
