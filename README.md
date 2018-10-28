@@ -114,7 +114,7 @@ How to Utilise Program:
 
      |Admin      |                                          |           |       |
      |Num        |1                                         |10         |       |
-     |Num	       |1                                         |5          |       |
+     |Num        |1                                         |5          |       |
      |Num        |1                                         |7          |       |
      |Categorical|Yes                                       |No         |Perhaps|
      |Qualitative|                                          |           |       |		
